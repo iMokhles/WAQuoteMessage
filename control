@@ -1,0 +1,10 @@
+Package: com.imokhles.waquotemessage
+Name: WAQuoteMessage
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Enable whatsapp Quotes Messages ( for 2.12.18 beta and above )
+Depiction: http://apt.totoateam.com/packages/com.imokhles.waquotemessage/depiction/index.html
+Maintainer: iMokhles
+Author: iMokhles
+Section: Tweaks
